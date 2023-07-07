@@ -1,6 +1,6 @@
-# My Data Analytics Portfolio
+# My Tech Portfolio
 
-Welcome to my data analytics portfolio! This repository showcases my passion for data analytics, insight generation, visualizations, model building, and project planning. Each project represents a significant step in my journey into the world of data science.
+Welcome to my Tech portfolio! This repository showcases my passion for data analytics, insight generation, visualizations, model building, and project planning. Each project represents a significant step in my journey into the world of data science.
 
 ## Project 1: App Rating Prediction
 

@@ -1,4 +1,4 @@
-# My Tech Portfolio Webpage Repository
+# Tech Portfolio Webpage Repository
 
 ### Welcome to my Tech portfolio Webpage Repository! 
 
